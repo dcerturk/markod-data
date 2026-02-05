@@ -1,0 +1,29 @@
+{
+  "markets": [
+    {
+      "id": "bim",
+      "name": "BİM",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bim_logo.svg/1200px-Bim_logo.svg.png",
+      "brochures": [
+        "https://bim.com.tr/brosur1.jpg",
+        "https://bim.com.tr/brosur2.jpg"
+      ]
+    },
+    {
+      "id": "a101",
+      "name": "A101",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/A101_logo.svg/1200px-A101_logo.svg.png",
+      "brochures": [
+        "https://a101.com.tr/brosur1.jpg"
+      ]
+    },
+    {
+      "id": "sok",
+      "name": "ŞOK",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sok_Market_logo.svg/1200px-Sok_Market_logo.svg.png",
+      "brochures": [
+        "https://sokmarket.com.tr/brosur1.jpg"
+      ]
+    }
+  ]
+}
