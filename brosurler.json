@@ -3,29 +3,50 @@
     {
       "id": "bim",
       "name": "BİM",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bim_logo.svg/1200px-Bim_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bim_logo.svg/512px-Bim_logo.svg.png",
       "brochures": [
-        "https://cdn1.bim.com.tr/uploads/afisler/7d3ff30e-5ebc-40cc-9342-2e0191870934.jpg",
-        "https://cdn1.bim.com.tr/uploads/afisler/7d3ff30e-5ebc-40cc-9342-2e0191870934.jpg"
+        "https://cdn1.bim.com.tr/uploads/afisler/96b171bc-047c-4b2e-9fbd-8e879df76b78.jpg"
       ]
     },
     {
       "id": "a101",
       "name": "A101",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/A101_logo.svg/1200px-A101_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/A101_logo.svg/512px-A101_logo.svg.png",
       "brochures": [
-        "https://a101.com.tr/brosur1.jpg"
+        "https://cdn1.bim.com.tr/uploads/afisler/96b171bc-047c-4b2e-9fbd-8e879df76b78.jpg"
       ]
     },
     {
       "id": "sok",
       "name": "ŞOK",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sok_Market_logo.svg/1200px-Sok_Market_logo.svg.png",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sok_Market_logo.svg/512px-Sok_Market_logo.svg.png",
       "brochures": [
-        "https://sokmarket.com.tr/brosur1.jpg"
+        "https://cdn1.bim.com.tr/uploads/afisler/96b171bc-047c-4b2e-9fbd-8e879df76b78.jpg"
+      ]
+    },
+    {
+      "id": "migros",
+      "name": "Migros",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Migros_logo.svg/512px-Migros_logo.svg.png",
+      "brochures": [
+        "https://cdn1.bim.com.tr/uploads/afisler/96b171bc-047c-4b2e-9fbd-8e879df76b78.jpg"
+      ]
+    },
+    {
+      "id": "secengross",
+      "name": "Seçen Gross",
+      "logoUrl": "https://www.secengross.com/assets/images/logo.png",
+      "brochures": [
+        "https://cdn1.bim.com.tr/uploads/afisler/96b171bc-047c-4b2e-9fbd-8e879df76b78.jpg"
+      ]
+    },
+    {
+      "id": "tahtakalespot",
+      "name": "Tahtakale Spot",
+      "logoUrl": "https://www.tahtakalespot.com/Uploads/EditorUploads/logo.png",
+      "brochures": [
+        "https://cdn1.bim.com.tr/uploads/afisler/96b171bc-047c-4b2e-9fbd-8e879df76b78.jpg"
       ]
     }
   ]
-
 }
-
