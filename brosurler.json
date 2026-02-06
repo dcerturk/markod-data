@@ -32,18 +32,21 @@
         "https://cdn1.bim.com.tr/uploads/afisler/96b171bc-047c-4b2e-9fbd-8e879df76b78.jpg"
       ]
     },
-          "name": "Tarım Kredi",
+    {
+      "id": "tarim-kredi",
+      "name": "Tarım Kredi",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tar%C4%B1m_Kredi_Kooperatifleri_logo.png",
       "brochures": [
         "https://cdn1.bim.com.tr/uploads/afisler/96b171bc-047c-4b2e-9fbd-8e879df76b78.jpg"
       ]
     },
     {
+      "id": "carrefoursa",
       "name": "CarrefourSA",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CarrefourSA_logo.svg/2560px-CarrefourSA_logo.svg.png",
       "brochures": [
         "https://cdn1.bim.com.tr/uploads/afisler/96b171bc-047c-4b2e-9fbd-8e879df76b78.jpg"
       ]
     }
   ]
 }
-
-
