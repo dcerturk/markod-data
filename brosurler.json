@@ -32,22 +32,6 @@
         "https://cdn1.bim.com.tr/uploads/afisler/96b171bc-047c-4b2e-9fbd-8e879df76b78.jpg"
       ]
     },
-    {
-      "id": "secengross",
-      "name": "Seçen Gross",
-      "logoUrl": "https://www.secengross.com/assets/images/logo.png",
-      "brochures": [
-        "https://cdn1.bim.com.tr/uploads/afisler/96b171bc-047c-4b2e-9fbd-8e879df76b78.jpg"
-      ]
-    },
-    {
-      "id": "tahtakalespot",
-      "name": "Tahtakale Spot",
-      "logoUrl": "https://www.tahtakalespot.com/Uploads/EditorUploads/logo.png",
-      "brochures": [
-        "https://cdn1.bim.com.tr/uploads/afisler/96b171bc-047c-4b2e-9fbd-8e879df76b78.jpg"
-      ]
-    },
           "name": "Tarım Kredi",
       "brochures": [
         "https://cdn1.bim.com.tr/uploads/afisler/96b171bc-047c-4b2e-9fbd-8e879df76b78.jpg"
@@ -61,4 +45,5 @@
     }
   ]
 }
+
 
